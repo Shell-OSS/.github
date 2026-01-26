@@ -1,6 +1,6 @@
 <img width="4267" height="1280" alt="shell-open-source-program" src="../images/shell-open-source-program.png" />
 
-# Get Invovled
+# Get Involved
 
 Welcome to Shell’s open‑source GitHub organization—home to projects we build and share in the open to enable collaboration, learning, and reuse.
 
